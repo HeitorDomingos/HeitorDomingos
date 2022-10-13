@@ -74,7 +74,7 @@ I am a software developer and I love to create solutions for problems and help t
 <p/>
     
 ## If you want contact me...
-<a href="www.linkedin.com/in/heitor-domingos/"><img width="35" height="35" src="https://img.icons8.com/color/96/000000/linkedin.png"></a>
+<a href="https://www.linkedin.com/in/heitor-domingos/"><img width="35" height="35" src="https://img.icons8.com/color/96/000000/linkedin.png"></a>
 <a href="mailto:heitor.rummenigge@gmail.com"><img width="35" height="35" src="https://img.icons8.com/color/96/000000/gmail.png"></a>
 
 <!---
