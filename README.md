@@ -58,34 +58,25 @@ I am a software developer and I love to create solutions for problems and help t
   <label>
     I graduated in Development and Analyze's Systems by Estácio University Center
   <label/>
-  <br />
-    
+  <br />    
   <img src="https://img.icons8.com/color/48/000000/open-book--v2.png" height="35px"/> 
-  &nbsp;
-    
-  <img src="https://github.com/WRCrys/devca-portfolio-ts/blob/main/src/pages/About/assets/toronto-raptors.png" height="35px"/> 
-  &nbsp;
+  &nbsp;    
   <label>
-    I love so much basketball
+    I love to study my stack and new technologies for improve and incrise my knowledge.
   <label/>
-  <br />
-    
-  <img src="https://img.icons8.com/color/48/000000/xbox--v1.png" height="35px"/> 
+   <br />    
+  <img src="https://img.icons8.com/emoji/48/000000/guitar-emoji.png" height="35px"/> 
   &nbsp;
   <label>
-    Sometimes... I play video-games and I like it too. It's better when I have other player
+    I'm musician end I love spend time playing guitar e drum.
   <label/>
   <br />
 <p/>
     
 ## If you want contact me...
-<a href="www.https://www.linkedin.com/in/heitor-domingos/"><img width="96" height="96" src="https://img.icons8.com/color/96/000000/linkedin.png"></a>
-<a href="mailto:heitor.rummenigge@gmail.com"><img width="96" height="96" src="https://img.icons8.com/color/96/000000/gmail.png"></a>
-    
-## Finally <img align="left" width="150" height="150" src="https://raw.githubusercontent.com/WRCrys/WRCrys/main/bear.webp">
-### I want to be the best person, developer and professional than I can be everyday.
-    
-   
+<a href="www.linkedin.com/in/heitor-domingos/"><img width="35" height="35" src="https://img.icons8.com/color/96/000000/linkedin.png"></a>
+<a href="mailto:heitor.rummenigge@gmail.com"><img width="35" height="35" src="https://img.icons8.com/color/96/000000/gmail.png"></a>
+
 <!---
 HeitorDomingos/HeitorDomingos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
