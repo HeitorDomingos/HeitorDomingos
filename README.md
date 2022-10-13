@@ -1,8 +1,6 @@
 # Hi there 
 **I'm Heitor Domingos.** 
-
-I am a software developer and I love to create solutions for problems and help to build a better future.
-
+During the years working with software and web development I have learned many different technical skills with the use of different programming and scripting languages such as C# (2 years), SQL Server (4 years) and JavaScript (4 years). I worked in fourcompanies with large and small teams, different positions and technologies.
 <br />
 
 ## My stack
